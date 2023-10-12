@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/kamibutt143/rabbitmq-management-api#readme",
   "dependencies": {
-    "axios": "^1.5.0"
+    "axios": "npm:@ponomarevlad/redaxios@^0.5.1-fix.3"
   }
 }
